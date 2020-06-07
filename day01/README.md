@@ -1,0 +1,2 @@
+﻿Practice on simple text processing:
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/neychev/harbour_dlia2020/blob/master/day01/practice01_simple_text_processing.ipynb)
