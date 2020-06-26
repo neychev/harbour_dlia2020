@@ -4,7 +4,7 @@ In this homework your goal is to build the QA system for the selected lanugage.
 
 The baseline in this repository is using Russian language [SberQuAD dataset](https://arxiv.org/pdf/1912.09723.pdf). Baseline solution (BiDAF) are the slightly adapted version of the [Stanford CS224n Starter code](https://github.com/chrischute/squad).
 The starting point of this assighnment is the `SberQuAD_preprocessing_and_problem_statement.ipynb` notebook.
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/neychev/made_nlp_course/blob/master/homeworks/homework04/SberQuAD_preprocessing_and_problem_statement.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/neychev/harbour_dlia2020/homeworks/optional_QnA/Russian_example_SberQuAD_preprocessing_and_problem_statement.ipynb)
 
 
 The original starter code is designed for the English language is available in [Stanford CS224n Starter code repository](https://github.com/chrischute/squad).
